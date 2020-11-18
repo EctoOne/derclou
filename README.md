@@ -2,6 +2,7 @@
 ---
 
 Original version by neo Software Produktions GmbH
+
 Port by Vasco Alexandre da Silva Costa
 
 - Copyright (c) 1993,1994 neo Software Produktions GmbH
